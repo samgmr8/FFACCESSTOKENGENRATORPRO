@@ -1,4 +1,4 @@
-# 🔥 Free Fire Access Token Generator Tool
+# 🔥 Free Fire Access Token Generator PRO
 
 The **Free Fire Access Token Generator Tool** is a lightweight and efficient utility designed for developers and learners to understand authentication flows, access token handling, and API testing related to Free Fire systems.
 
